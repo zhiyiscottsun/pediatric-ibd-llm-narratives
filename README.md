@@ -26,7 +26,7 @@ The evaluated models were:
 - Gemini 2.5 Pro
 - Claude Sonnet 4.5
 - DeepSeek-V3.2
-- Llama 4
+- Llama 4 (Meta AI)
 - Mistral (Le Chat)
 
 Narratives were generated using publicly available web-based interfaces rather than APIs.
