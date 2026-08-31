@@ -39,14 +39,7 @@ Contains the full generation prompts used for the five pediatric IBD scenarios.
 
 ### `generated_narratives/`
 
-Contains the generated narratives for each of the six evaluated LLMs:
-
-- `GPT-5`
-- `Gemini-2.5-Pro`
-- `Claude-Sonnet-4.5`
-- `DeepSeek-V3.2`
-- `Llama-4`
-- `Mistral-Le-Chat`
+Contains the generated narratives for each of the six evaluated LLMs.
 
 ## Evaluation
 
